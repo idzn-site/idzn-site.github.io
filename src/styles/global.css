@@ -1,13 +1,13 @@
 @import "tailwindcss";
 @theme  {
-  --color-black: #1e1e1e;
+  --color-black: #0f4c5c;
   --color-white: #e7e7d8;
   --color-eagle: #afac95;
   --color-orange: #ea4125;
 }
 .font-display {
-  font-family: Basement, sans-serif;
-  font-weight: 700;
+  font-family: montserra, sans-serif;
+  font-weight: 900;
 }
 @supports (font-variation-settings: normal) {
   /* Use variable font if supported */
