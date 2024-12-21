@@ -1,5 +1,3 @@
 {
-  "files.associations": {
-    "*.mdx": "markdown"
-  }
+    "window.title": "${activeEditorShort}${separator}${rootName}${separator}${profileName} ${separator} [Branch: main]${separator}[Branch: main]"
 }
